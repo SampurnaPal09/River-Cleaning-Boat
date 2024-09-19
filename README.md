@@ -1,6 +1,6 @@
 # Abstract 
 The River cleaning boat Project is an endeavor to clean water bodies with an ambitious mission:
-                      a) To clean the water bodies and free from floating waste 
+                      # a) To clean the water bodies and free from floating waste 
                       b) Reducing human intervention 
                       c) Faster and easy cleaning 
                       d) Remote Operation
