@@ -3,7 +3,7 @@ The River cleaning boat Project is an endeavor to clean water bodies with an amb
 * To clean the water bodies and free from floating waste 
 * Reducing human intervention 
 * Faster and easy cleaning 
-* Remote Operation
+* Remote Operation/n
 The core functionality of this system is centered on its ability to be controlled wirelessly using a mobile 
 device through Wi-Fi. Users can remotely navigate the boat within the water body, enabling precise 
 targeting of polluted areas. The collected waste is securely stored on the boat for later disposal, ensuring 
